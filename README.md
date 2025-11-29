@@ -22,9 +22,10 @@ The analysis revealed distinct emotional profiles for each brand. Brand "H\_" wa
 * Matplotlib & Seaborn (for visualization)
 
 ## Data Availability
-[cite_start]The original dataset (`A_II_Emotion_Data_Student_Copy_Final.xlsx`) is proprietary and not included in this repository[cite: 1385]. [cite_start]It contained customer reviews, star ratings, brand names, and some pre-labeled emotions[cite: 1020].
-
+[cite_start]The original dataset (`A_II_Emotion_Data_Student_Copy_Final.xlsx`) is proprietary and not included in this repository[cite: 1385]. [cite_start]It contained customer reviews, star ratings, brand names, and 
+some pre-labeled emotions[cite: 1020].
 ## Project Structure
 -   **/report:** Contains the final project report (`Data Mining_A2.pdf`).
 -   **/scripts:** Includes the Python script (`sentiment_analysis.py`) for the NLP pipeline and modeling.
 -   **/visualizations:** Contains charts and plots generated during the analysis.
+![Image](https://github.com/user-attachments/assets/511d09bd-a849-4ba1-9b5c-b370f8c59516)
